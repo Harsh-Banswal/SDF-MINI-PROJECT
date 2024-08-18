@@ -1,0 +1,7 @@
+PNR Number :100
+Flight Name :Vistara
+Flight Date :240524
+Departure Time :11:00
+Arrival Time :2:00
+Name :harsh
+Age :20

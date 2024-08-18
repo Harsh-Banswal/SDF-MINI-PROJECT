@@ -1,0 +1,14 @@
+PNR Number :98
+Train :Vande Bharat
+Train Date :240524
+Departure Time :12:00
+Arrival Time :5:00
+Name :Harsh Banswal
+Age :20
+PNR Number :101
+Train :Rajdhani
+Train Date :121224
+Departure Time :8:00
+Arrival Time :11:00
+Name :Harsh Banswal
+Age :20

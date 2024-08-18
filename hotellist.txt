@@ -1,0 +1,3 @@
+Here Are The List Of Available Hotels: 
+ID 1 --- ABC Hotel 
+ID 2 --- XYZ Hotel 

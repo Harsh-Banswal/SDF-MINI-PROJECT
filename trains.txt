@@ -1,0 +1,5 @@
+                        Trains Available
+Trains:             Departure:    Arrival:    Price:       Category:
+1. Rajdhani         08:00         11:00       Rs.2000      Refundable
+2. Vande Bahrat     12:00         5:00        Rs.1500      Refundable
+3. Shatabdi         3:00          9:00        Rs.1800      Refundable

@@ -1,0 +1,5 @@
+                        Flights Available
+   Flights:         Departure:    Arrival:    Price:       Category:
+1. Vistara          08:00         11:00       Rs.5000      Refundable
+2. Indigo           12:00         5:00        Rs.7500      Refundable
+3. Air India        3:00          9:00        Rs.9000      Refundable
